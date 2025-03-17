@@ -4,10 +4,10 @@
 
 <p align="left">
 <ul>
-  <li>Olá, me chamo Carlos Henrique </li><br>
-  <li>Tenho 25 anos</li><br>
-  <li>Estudante de Ciência da Computação</li><br>
-  <li>Universidade Estadual do Piauí - UESPI</li><br>
+  <li>Olá, me chamo Carlos Henrique </li>
+  <li>Tenho 25 anos</li>
+  <li>Estudante de Ciência da Computação</li>
+  <li>Universidade Estadual do Piauí - UESPI</li>
   <li>Desenvolvedor Back-End</li>
 </ul>
 </p>
